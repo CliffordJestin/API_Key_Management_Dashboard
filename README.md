@@ -31,9 +31,9 @@
 
 ## 🌟 Bonus Features
 
-- 🧑‍💼 Admin audit logs for API key revocations
-- 🚫 Trigger prevents usage of expired or revoked keys
-- 🎛 Per-key customizable rate limits
+-  Admin audit logs for API key revocations
+-  Trigger prevents usage of expired or revoked keys
+-  Per-key customizable rate limits
 
 ---
 
